@@ -1,0 +1,3 @@
+/Users/manyakaurbhutani/pa2_progtest1_2024/cmake-build-debug/CMakeFiles/pa2_progtest1_2024.dir
+/Users/manyakaurbhutani/pa2_progtest1_2024/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/manyakaurbhutani/pa2_progtest1_2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir

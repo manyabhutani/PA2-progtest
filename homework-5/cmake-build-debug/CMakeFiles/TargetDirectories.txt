@@ -1,0 +1,3 @@
+/Users/manyakaurbhutani/CLionProjects/BIE-PA2/2024/homework-5/cmake-build-debug/CMakeFiles/homework_5.dir
+/Users/manyakaurbhutani/CLionProjects/BIE-PA2/2024/homework-5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/manyakaurbhutani/CLionProjects/BIE-PA2/2024/homework-5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
